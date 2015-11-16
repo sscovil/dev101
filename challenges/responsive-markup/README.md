@@ -1,7 +1,7 @@
 # Dev 101 / Challenges / Responsive Markup
 
 Before you start writing code, it is important to have a solid foundation. Learn how to write good, clean markup
-and style it with CSS. If you are not familiar with HTML & CSS, start with the Responsive Markup challenge.
+and style it with CSS. If you are not familiar with HTML & CSS, start here.
 
 ### Courses
 
