@@ -1,19 +1,7 @@
 # Dev 101
 
 This curriculum is intended to teach a novice web developer the skills required to build a rich, non-trivial
-web application. Topics include:
-
-* HTML & CSS
-* Markdown & SASS
-* Git
-* JavaScript
-* AngularJS
-* NodeJS
-* MongoDB
-* REST APIs
-
-By the end, you will have developed a fully-functioning
-[content management system](https://en.wikipedia.org/wiki/Content_management_system).
+web application.
 
 ## Getting Started
 
@@ -29,18 +17,7 @@ to sign into many of the other sites.
 * [Code Pen](https://codepen.io/signup/free) (free)
 * [Stack Overflow](https://stackoverflow.com/users/signup?returnurl=http%3a%2f%2fstackoverflow.com%2f) (free)
 
-## Part 1: HTML & CSS
+Start by [cloning this repository](https://help.github.com/articles/cloning-a-repository/), then pick a challenge from
+the `/challenges` directory and follow the instructions in the README.md file.
 
-Before you start writing code, it is important to have a solid foundation. Learn how to write good, clean markup
-and style it with CSS.
-
-### Courses
-
-1. Code School: [Front-end Foundations](https://www.codeschool.com/courses/front-end-foundations)
-1. Code School: [Front-end Formations](https://www.codeschool.com/courses/front-end-formations)
-1. Code School: [CSS Cross-Country](https://www.codeschool.com/courses/css-cross-country)
-1. Code School: [Journey Into Mobile](https://www.codeschool.com/courses/journey-into-mobile)
-
-### Project
-
-Go to [Plunker](http://plnkr.co) and create a mobile-first layout for your CMS application.
+If you are not sure where to begin, start with the [Responsive Markup](challenges/responsive-markup) challenge.
